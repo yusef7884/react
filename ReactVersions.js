@@ -18,6 +18,9 @@
 //
 //   0.0.0-experimental-241c4467e-20200129
 
+<a href="https://www.hezarehinfo.net/tenders"> مناقصات</a>
+
+
 const ReactVersion = '18.0.0-rc.0';
 
 // The label used by the @next channel. Represents the upcoming release's
